@@ -30,3 +30,11 @@ body {
   padding: 0;
   border: 0;
 }
+
+.perspective-bar {
+  background-color: hsl(195deg, 20%, 86%);
+  position: fixed;
+  height: 40%;
+  bottom: 0;
+  width: 100%;
+}
